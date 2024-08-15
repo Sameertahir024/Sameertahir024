@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sameer</h1>
-<h3 align="center">I am a Full-Stack developer..</h3>
+<h1 align="center">Hi 👋, I'm Sameer, Full-Stack developer</h1>
 </br>
 <img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
