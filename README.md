@@ -6,7 +6,7 @@
 
 </div>
 </br>
-<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 👨‍💻 Currently working as a **Full-Stack developer**
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies.
