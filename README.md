@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sameer, Full-Stack developer</h1>
+<h1 align="center">Hi 👋, I'm Sameer</h1>
 </br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
 <img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 📝 I regulary write articles on: [https://medium.com/@visualbean](https://medium.com/@visualbean)
